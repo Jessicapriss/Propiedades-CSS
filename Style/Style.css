@@ -17,3 +17,45 @@ nav a{
 nav a:hover{
     text-decoration: underline;
 }
+main{
+    background-color:white;
+    color: black;
+}
+.Welcome{
+    padding: 20px;
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.Courses{
+    padding: 30px;
+}
+p{
+    font-size: 18px;
+    line-height: 1.4;
+}
+.Welcome h1, .Courses h2{
+    color: steelblue;
+}
+.infoCurso img{
+    width: 225px;
+    float: left;
+    margin-right: 30px;
+}
+.infoCurso{
+    overflow: auto;
+    margin-bottom: 30px;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: lightgrays;
+}
+.image{
+    width: 600px;
+    border: 2px solid black;
+}
